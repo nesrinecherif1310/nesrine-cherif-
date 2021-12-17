@@ -1,0 +1,63 @@
+img{
+    margin-left: 500px;
+width: 200px;
+}
+#form{
+    margin-left: 300px;
+    color: rgb(51, 2, 39);
+    font-size: 20px;
+}
+h1{
+    margin-left: 500px;
+
+    color: black;
+}
+
+body{
+    background-color: pink;
+}
+
+a,h2{
+    color: white;
+    margin-left: 10px;
+
+}
+.A{
+width: auto;
+     border: 5px white;
+    background-color: black;
+    
+}
+
+nav{
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    padding: 2rem;
+
+}
+nav ul{
+    display: flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 2rem;
+
+}
+#logo{
+    flex: 2 1 40rem;
+}
+.gomycode {
+    
+width: 500px;
+}
+.Z{
+    text-decoration: underline;
+}
+#about{
+    font-size: 170%;
+    color: black;
+}
